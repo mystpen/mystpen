@@ -1,6 +1,9 @@
 
 <div id="header" align="center">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=F7F7F7&background=131313D7&center=true&vCenter=true&random=true&width=1000&height=20&lines=.+.+." alt="Typing SVG" /></a>
+<br>
+<br>
+ 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+Dana;)](https://git.io/typing-svg)
  <br>
  

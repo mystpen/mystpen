@@ -4,7 +4,6 @@
 <br>
 <br>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%11043A&center=true&vCenter=false&size=26&width=600&lines=Hi+there+👋;)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%11043A&center=false&vCenter=false&size=26&width=600&lines=........................................;)](https://git.io/typing-svg)
  <br>
  
